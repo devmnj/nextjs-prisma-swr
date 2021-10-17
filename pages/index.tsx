@@ -5,8 +5,7 @@ import styles from "../styles/Home.module.css";
 import useSWR from 'swr'
  
 import React from "react";
-import fetcher from "../lib/fetcher";
-  
+import fetcher from "../lib/fetcher"; 
 export default function Home(
   
 ) {
